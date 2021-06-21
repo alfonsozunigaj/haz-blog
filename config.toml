@@ -1,4 +1,4 @@
-baseURL = "https://vibrant-pare-f3aa3e.netlify.app/"
+baseURL = "https://haz-blog.netlify.app/"
 languageCode = "en-us"
 title = "HAZ Blog"
 theme = "hugo-nederburg-theme"
