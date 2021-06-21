@@ -27,3 +27,5 @@ fields:
 - type: number
   name: weight
   label: Peso
+pages:
+- content/post/example1.md
