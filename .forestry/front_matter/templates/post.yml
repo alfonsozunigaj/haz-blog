@@ -9,7 +9,7 @@ fields:
   name: title
   label: Título
 - type: text
-  name: summary
+  name: description
   label: Resumen
 - type: text
   name: writer
