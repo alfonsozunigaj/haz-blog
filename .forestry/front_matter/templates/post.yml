@@ -2,27 +2,27 @@
 label: Post
 hide_body: false
 fields:
-- type: list
-  name: categories
-  label: categories
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: summary
-  label: summary
-- type: file
-  name: image
-  label: image
-- type: boolean
-  name: showonlyimage
-  label: showonlyimage
 - type: text
   name: title
-  label: title
+  label: Título
+- type: text
+  name: summary
+  label: Resumen
+- type: datetime
+  name: date
+  label: Fecha
+- type: file
+  name: image
+  label: Imagen
+- type: list
+  name: categories
+  label: Categorías
+- type: boolean
+  name: showonlyimage
+  label: Mostrar solo imagen
 - type: number
   name: weight
-  label: weight
+  label: Peso
 - type: text
   name: writer
-  label: writer
+  label: Autor
