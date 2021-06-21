@@ -1,6 +1,7 @@
 +++
 categories = ["travel", "conf"]
 date = 2021-06-21T04:00:00Z
+description = "Some commentary on our latest trip to San Francisco."
 image = "/img/portfolio/golden-gate.jpg"
 showonlyimage = false
 summary = "Some commentary on our latest trip to San Francisco"
